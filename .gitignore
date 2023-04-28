@@ -3,4 +3,4 @@
 # ignore git file
 .git
 # ignore backup
-terraform.tfstate
+proxmox/terraform.tfstate
