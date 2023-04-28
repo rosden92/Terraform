@@ -1,0 +1,6 @@
+# ignore all logs
+*.log
+# ignore git file
+.git
+# ignore backup
+terraform.tfstate
